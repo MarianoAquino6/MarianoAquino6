@@ -1,5 +1,5 @@
-<h1 align="center">Heyy, I'm Marian</h1>
-<h3 align="center">A programming student and future web developer</h3>
+<h1 align="center">Hey, I'm Marian</h1>
+<h3 align="center">I'm a programming student (UTN) and future web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianoaquino6&label=Profile%20views&color=0e75b6&style=flat" alt="marianoaquino6" /> </p>
 
