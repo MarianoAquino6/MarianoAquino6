@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianoaquino6" alt="marianoaquino6" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET, Linux**
+- 🌱 I’m currently learning **PHP, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarianoAquino6](https://github.com/MarianoAquino6)
 
